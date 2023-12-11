@@ -1,4 +1,4 @@
 import pywhatkit
-pywhatkit.sendwhatmsg('+91 ##########','Happy birthday',20,46)
+pywhatkit.sendwhatmsg('MobileNumber','ContentOfMessage',Hour,Minutes)
 
 
